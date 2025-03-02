@@ -60,13 +60,13 @@ I can add a few sentences on the almost univerally unhelpful impacts an assumpti
 ---
 
 **2023**
-![](../imgs/2023_crank_days_triangle.PNG)
+<img src=../imgs/2023_crank_days_triangle.PNG width=20% />
 
 **2024**
-![](../imgs/2024_crank_days_triangle.PNG)
+<img src=../imgs/2024_crank_days_triangle.PNG width=20% />
 
 **2025**
-![](../imgs/2025_crank_days_triangle.PNG)
+<img src=../imgs/2025_crank_days_triangle.PNG width=20%/"
 
 ---
 
