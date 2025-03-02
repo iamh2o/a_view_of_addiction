@@ -13,6 +13,7 @@
   - [Trauma Background](#trauma-background)
   - [Recovery Journey](#recovery-journey)
     - [Quantitative Metrics](#quantitative-metrics)
+      - [!Habits iPhone App](#habits-iphone-app)
     - [Unique Struggles and Supports](#unique-struggles-and-supports)
     - [Probability of Sustained Recovery](#probability-of-sustained-recovery)
   - [Reflections](#reflections)
@@ -46,6 +47,20 @@ In December 2024, a podcast on Stockholm syndrome and narcissistic abuse made me
 Throughout February 2025, I faced critical health challenges, including E. coli and parasite infections, which were eventually linked to Mast Cell Activation Syndrome (MCAS). With the help of AI, I self-diagnosed and began treatment, which has been effective.
 
 ### Quantitative Metrics
+#### [!Habits iPhone App](https://www.notboring.software/product/habits)
+
+---
+
+**2023**
+![](../imgs/2023_crank_days_triangle.PNG)
+
+**2024**
+![](../imgs/2024_crank_days_triangle.PNG)
+
+**2025**
+![](../imgs/2025_crank_days_triangle.PNG)
+
+---
 
 From January 28, 2023, to February 29, 2025, I tracked my meth use with daily logs:
 - **Total Days Since Rehab:** 764

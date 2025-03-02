@@ -31,6 +31,7 @@
   - [Appendix A: Full Trauma History and Poem](#appendix-a-full-trauma-history-and-poem)
     - [Trauma History](#trauma-history)
     - [Poem: "gingerbread boy" by John Major, 2025.01.13](#poem-gingerbread-boy-by-john-major-20250113)
+      - [!Habits iPhone App](#habits-iphone-app)
 
 ## Introduction and Thesis
 
@@ -200,3 +201,19 @@ My trauma history comprises 14 distinct traumatic events:
 14. **Cultural Stigma and Discrimination in the 1980s:** As a gay man, faced intense societal hostility and messages that I should die for my sexuality.
 
 ### Poem: "gingerbread boy" by John Major, 2025.01.13
+
+
+#### [!Habits iPhone App](https://www.notboring.software/product/habits)
+
+---
+
+**2023**
+![](../imgs/2023_crank_days_triangle.PNG)
+
+**2024**
+![](../imgs/2024_crank_days_triangle.PNG)
+
+**2025**
+![](../imgs/2025_crank_days_triangle.PNG)
+
+---
