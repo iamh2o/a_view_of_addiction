@@ -1,5 +1,5 @@
 # Addiction Recovery: A Personal Journey Beyond the 12-Step Paradigm
-
+_v0.0.1_
 ---
 
 > # THIS IS A DRAFT WIP PUBLICATION DESTINED FOR F1000 RESEARCH
@@ -8,6 +8,7 @@
 
 ## Table of Contents
 - [Addiction Recovery: A Personal Journey Beyond the 12-Step Paradigm](#addiction-recovery-a-personal-journey-beyond-the-12-step-paradigm)
+  - [_v0.0.1_](#v001)
   - [Table of Contents](#table-of-contents)
   - [Introduction and Thesis](#introduction-and-thesis)
   - [Trauma Background](#trauma-background)
