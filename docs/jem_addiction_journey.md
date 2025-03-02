@@ -10,6 +10,8 @@
     - [Unique Struggles and Supports](#unique-struggles-and-supports)
     - [Probability of Sustained Recovery](#probability-of-sustained-recovery)
   - [Reflections](#reflections)
+    - [Recovery Capture via Anarchy at Scale](#recovery-capture-via-anarchy-at-scale)
+    - [AAAA Ref....](#aaaa-ref)
   - [Appendix A: Full Trauma History and Poem](#appendix-a-full-trauma-history-and-poem)
     - [Trauma History](#trauma-history)
     - [Poem: "gingerbread boy" by John Major, 2025.01.13](#poem-gingerbread-boy-by-john-major-20250113)
@@ -23,7 +25,7 @@ A critical limitation of many addiction recovery studies is their reliance on th
 
 ## Trauma Background
 
-My recovery journey is deeply influenced by an extensive trauma history spanning decades. Key experiences include childhood exposure to my father’s severe PTSD, multiple muggings and assaults, two sexual assaults, an attempted murder in Chile, internalized homophobia as a gay man in the 1980s, two near-death experiences with sepsis, 24 years of emotional abuse from my husband, and chronic illness. These events have significantly shaped my mental health and addiction struggles. My poem "gingerbread boy" captures the cultural stigma and self-hatred I endured in the 1980s. For the complete trauma history and full poem, see Appendix A.
+My recovery journey is deeply influenced by an extensive trauma history spanning decades. Key experiences include childhood exposure to my father’s severe PTSD, multiple muggings and assaults, two sexual assaults, an attempted murder in Chile, internalized homophobia as a gay man in the 1980s, two near-death experiences with sepsis, 24 years of emotional abuse from relationships, and chronic illness. These events have significantly shaped my mental health and addiction struggles. My poem "gingerbread boy" captures the cultural stigma and self-hatred I endured in the 1980s. For the complete trauma history and full poem, see Appendix A.
 
 ## Recovery Journey
 
@@ -33,7 +35,7 @@ Rehab introduced me to various recovery tools, including 12-step programs, evide
 
 Despite these efforts, my health did not improve as expected. Between 2021 and 2025, I saw nearly 150 doctors, endured two seven-day hospital stays for sepsis, and made dozens of ER and urgent care visits. In July 2024, I began taking tirzepatide, which alleviated my 29-year joint pain, normalized my weight, blood pressure, cholesterol, and blood sugar, and even curbed my obsessive behaviors. This intervention was pivotal in my physical and mental recovery.
 
-In December 2024, a podcast on Stockholm syndrome and narcissistic abuse made me realize I had been in an abusive relationship with my husband of 24 years. This revelation was overwhelming, leading to a relapse and a suicide attempt. However, I quickly sought help, stabilized, and enrolled in a 15-session Cognitive Processing Therapy (CPT) program in January 2025, which proved invaluable for addressing my PTSD.
+In December 2024, a podcast on Stockholm syndrome and narcissistic abuse made me realize I had been in various abuse relationships for over 20 years. This revelation was overwhelming, leading to a relapse and a suicide attempt. However, I quickly sought help, stabilized, and enrolled in a 15-session Cognitive Processing Therapy (CPT) program in January 2025, which proved invaluable for addressing my PTSD.
 
 Throughout February 2025, I faced critical health challenges, including E. coli and parasite infections, which were eventually linked to Mast Cell Activation Syndrome (MCAS). With the help of AI, I self-diagnosed and began treatment, which has been effective.
 
@@ -62,9 +64,15 @@ From January 28, 2023, to February 29, 2025, I tracked my meth use with daily lo
 
 **Struggles:**
 - **Persistent Health Issues:** Despite being meth-free, my health deteriorated, requiring nearly 150 doctor visits, multiple ER visits, and hospital stays for sepsis. A late 2024 MCAS diagnosis compounded these challenges.
-- **December 2024 Relapse:** Triggered by recognizing an abusive 24-year marriage, this relapse involved a suicide attempt, highlighting the intersection of mental health and addiction.
+- **December 2024 Relapse:** Triggered by recognizing a large number of abusive relationships not recognized to that point, this relapse involved a suicide attempt, highlighting the intersection of mental health and addiction. THe outcome of this relapse was enrollment in the [Nema Health CPT program for PTSD](https://nemahealth.com)
 
 **Supports:**
+- **Family & Friends** Critical in providing outside perspective on growing crises stemming from addiction. Best positioned to offer gentle & constant pressure to reach out for help when ready.
+- **Pschiatric** Psych dr...
+- **Therapy** Weekly, by Psychiatrist
+- **Intentional & Guided Psychedelic Experiences** 5MEODMT, DMT, LSD, MDMA.
+- **Dancing** try not to feel better and connected to others dancinfg.
+- **[Silicon Valley Recovery](https://www.siliconvalleyrecovery.com)** Residential dual diagnosis treatment in San Jose.
 - **Recovery Dharma:** Adopted in July 2023, this Buddhist-inspired community replaced 12-step programs, enhancing my recovery through meditation and mindfulness.
 - **Tirzepatide:** Started in July 2024, it alleviated joint pain, normalized health metrics, and reduced obsessive behaviors, supporting addiction healing.
 - **Cognitive Processing Therapy (CPT):** Enrolled in January 2025, this 15-session PTSD program provided critical mental health support.
@@ -75,11 +83,26 @@ Defining "returning to addiction" as 3 months (90 days) of continuous meth use, 
 
 ## Reflections
 
-My journey has taught me that recovery is not a monolith. The 12-step paradigm primacy, while valuable for some, has cast a long shadow over alternatives, stifling innovation and marginalizing approaches that might better serve diverse populations. For me, Recovery Dharma’s mindfulness practices provided a lifeline where 12-step’s spiritual focus fell short. Similarly, medical interventions like tirzepatide have addressed physical aspects of my addiction, complementing the psychological support from counseling and peer networks.
+### Recovery Capture via Anarchy at Scale
 
-This report is not a rejection of 12-step programs—they remain a lifeline for many—but a call for balance. Addiction treatment must move beyond a singular dogma to embrace personalized, evidence-based options. The lost opportunities of the past, buried under decades of 12-step dominance, underscore the urgency of this shift. We need more research into programs like Recovery Dharma and drugs like tirzepatide, not just to validate their efficacy but to ensure that no one is left behind by a system too rigid to adapt.
 
-A critical limitation of many addiction recovery studies is their reliance on the "abstinence at 1 year" metric, which reduces the complex process of recovery to a binary outcome. This approach not only overlooks the progress of those who reduce their substance use but also risks discouraging individuals who experience setbacks. Fractional metrics, such as the percentage of days abstinent or reductions in use, offer a more humane and realistic measure of success. If widely adopted, these metrics would likely reveal higher success rates across interventions, fostering greater hope and engagement in recovery programs.
+My journey showed me recovery isn’t one-size-fits-all, yet via the magic of emergent properties of anarchist organizations at scale (AA is the most successfuul in the world!) the 12-step model’s dominance overshadows other paths: in all sectors of life. 
+
+I valued the chance to study it up close, but my 12-step experience was ultimately a net-negative. Its spiritual focus didn’t click, and its rigidity stifled innovation, sidelining alternatives better suited to diverse needs. Recovery Dharma’s mindfulness practices became my lifeline, while medical interventions like tirzepatide tackled the physical side of addiction. Counseling and peer networks offered vital psychological support. Recovery thrives on variety, not a single playbook.
+
+This report is not a rejection of 12-step programs—they remain a lifeline for many—but an urgent call to build on what we know works and to embrace optimism and intentional evolution in addiction recovery. We must move beyond rigid, one-size-fits-all approaches and create a recovery landscape that is both scalable in operations as well as adaptable intervention programming, inclusive, and driven by evidence. By fostering a mindset of hope and innovation, we can accelerate the development of more effective treatment paradigms and ensure new developments get to the clinics faster than this happens presently.
+
+*rework*
+This report is a criticism of the emergent recovery systems & thinking capture situation that has become entrenched. The 12-step empire—let’s call it what it is—has pulled off a slick recovery systems capture, sinking its claws into the addiction treatment landscape and holding it hostage with a rigid, outdated playbook. Alcoholics Anonymous (AA) and its offshoots have scaled impressively, sure, reaching millions with a cookie-cutter framework that bends just enough to fit different cultures while staying stubbornly fossilized at its core. That operational reach is undeniable—but it’s a hollow victory when the system can’t adapt to even the most basic, unassailable shifts in recovery science. Case in point: cigarettes.
+
+Here’s the kicker—studies (like those from the Journal of Substance Abuse Treatment) show that people leaving rehab as smokers have 50% worse odds of staying sober compared to non-smokers. That’s not some fringe hypothesis; it’s a screaming red flag. Smoking doesn’t just tank sobriety rates—it drags along a laundry list of health disasters: cancer, heart disease, lung failure. Yet AA, with its sanctimonious “full sobriety” gospel, turns a blind eye. Meetings reek of tobacco, and the Big Book—untouched since the 1930s—doesn’t whisper a word about it. This isn’t oversight; it’s structural paralysis. The 12-step machine is so ossified, so shackled to its dogma, that it can’t muster the will to tackle a drug staring them in the face—one that’s killing their success rates and their members.
+
+How does AA justify this? They don’t. They lean on tradition like it’s a sacred shield, enforcing draconian rules about alcohol and narcotics while letting nicotine slide as a cultural quirk. It’s hypocrisy dressed up as principle. The organization’s anarchistic structure has effectively paralyzed its ability to make substantive changes to its core materials or core approachrethink its approach isn’t just stagnation—. Meanwhile, evidence-based recovery demands flexibility: scalable systems that don’t just spread wide but evolve deep, folding in new data to actually work better. AA’s refusal to do this—starting with something as obvious as cigarettes—proves it’s less about recovery and more about preserving its own grip on the game.
+
+This isn’t a total takedown—12-step helps plenty—but it’s a wake-up call. We need treatment that doesn’t just coast on past glory but fights to adapt, using science to boost survival, not cling to relics. Until AA reckons with its cigarette blind spot (and the rest of its frozen ideology), it’s failing the very people it preaches to.
+
+### AAAA Ref....
+text Anarchy and Alcohol (available online via their publications) explicitly ties AA to anarchism and praises its success as a decentralized model. Paired with the Cochrane review’s empirical evidence of effectiveness (published in the Cochrane Database of Systematic Reviews, DOI: 10.1002/14651858.CD012880.pub2), these sources collectively support the case.
 
 ## Appendix A: Full Trauma History and Poem
 
@@ -95,7 +118,7 @@ My trauma history comprises 14 distinct traumatic events:
 7. **Internalized Homophobia and Self-Hatred:** Struggled with being closeted and self-loathing for not being straight.
 8. **Near-Death Experiences with Sepsis:** Nearly died twice from sepsis.
 9. **Frequent First Responder to Emergencies:** Often the first to act in crises, including a traumatic subway incident.
-10. **Emotional and Psychological Abuse from Tom:** Endured 24 years of abuse from my husband.
+10. **Emotional and Psychological Abuse:** Relationships
 11. **Addiction and Related Trauma:** Addiction led to dangerous situations and self-harm.
 12. **Chronic Illness:** Lived with debilitating illness for 20 years.
 13. **Witnessing Grandmother’s Death:** Present during her passing.

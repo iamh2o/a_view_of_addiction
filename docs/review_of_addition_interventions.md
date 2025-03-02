@@ -34,7 +34,7 @@ A critical limitation of many addiction recovery studies is their reliance on th
 
 ## Trauma Background
 
-My recovery journey is deeply influenced by an extensive trauma history spanning decades. Key experiences include childhood exposure to my father’s severe PTSD, multiple muggings and assaults, two sexual assaults, an attempted murder in Chile, internalized homophobia as a gay man in the 1980s, near-death experiences with sepsis, 24 years of emotional abuse from my husband, and chronic illness. These events have significantly shaped my mental health and addiction struggles. My poem "gingerbread boy" captures the cultural stigma and self-hatred I endured in the 1980s. For the complete trauma history and full poem, see Appendix A.
+My recovery journey is deeply influenced by an extensive trauma history spanning decades. Key experiences include childhood exposure to my father’s severe PTSD, multiple muggings and assaults, two sexual assaults, an attempted murder in Chile, internalized homophobia as a gay man in the 1980s, near-death experiences with sepsis, 24 years of emotional abuse from relationships, and chronic illness. These events have significantly shaped my mental health and addiction struggles. My poem "gingerbread boy" captures the cultural stigma and self-hatred I endured in the 1980s. For the complete trauma history and full poem, see Appendix A.
 
 ## Support Networks in My Recovery
 
@@ -187,7 +187,7 @@ My trauma history comprises 14 distinct traumatic events:
 7. **Internalized Homophobia and Self-Hatred:** Struggled with being closeted and self-loathing for not being straight.
 8. **Near-Death Experiences with Sepsis:** Nearly died twice from sepsis.
 9. **Frequent First Responder to Emergencies:** Often the first to act in crises, including a traumatic subway incident.
-10. **Emotional and Psychological Abuse from Tom:** Endured 24 years of abuse from my husband.
+10. **Emotional and Psychological Abuse from Relationships:** Endured 24 years of abuse from relationships.
 11. **Addiction and Related Trauma:** Addiction led to dangerous situations and self-harm.
 12. **Chronic Illness:** Lived with debilitating illness for 20 years.
 13. **Witnessing Grandmother’s Death:** Present during her passing.
