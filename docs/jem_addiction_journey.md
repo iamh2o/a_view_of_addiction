@@ -23,7 +23,7 @@ A critical limitation of many addiction recovery studies is their reliance on th
 
 ## Trauma Background
 
-My recovery journey is deeply influenced by an extensive trauma history spanning decades. Key experiences include childhood exposure to my father’s severe PTSD, multiple muggings and assaults, two sexual assaults, an attempted murder in Chile, internalized homophobia as a gay man in the 1980s, near-death experiences with sepsis, 24 years of emotional abuse from my husband, and chronic illness. These events have significantly shaped my mental health and addiction struggles. My poem "gingerbread boy" captures the cultural stigma and self-hatred I endured in the 1980s. For the complete trauma history and full poem, see Appendix A.
+My recovery journey is deeply influenced by an extensive trauma history spanning decades. Key experiences include childhood exposure to my father’s severe PTSD, multiple muggings and assaults, two sexual assaults, an attempted murder in Chile, internalized homophobia as a gay man in the 1980s, two near-death experiences with sepsis, 24 years of emotional abuse from my husband, and chronic illness. These events have significantly shaped my mental health and addiction struggles. My poem "gingerbread boy" captures the cultural stigma and self-hatred I endured in the 1980s. For the complete trauma history and full poem, see Appendix A.
 
 ## Recovery Journey
 
