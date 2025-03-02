@@ -12,6 +12,7 @@
   - [Introduction and Thesis](#introduction-and-thesis)
   - [Trauma Background](#trauma-background)
   - [Recovery Journey](#recovery-journey)
+      - [A Special Place In Hell For Those Who Expect Perfection](#a-special-place-in-hell-for-those-who-expect-perfection)
     - [Quantitative Metrics](#quantitative-metrics)
       - [!Habits iPhone App](#habits-iphone-app)
     - [Unique Struggles and Supports](#unique-struggles-and-supports)
@@ -45,6 +46,12 @@ Despite these efforts, my health did not improve as expected. Between 2021 and 2
 In December 2024, a podcast on Stockholm syndrome and narcissistic abuse made me realize I had been in various abuse relationships for over 20 years. This revelation was overwhelming, leading to a relapse and a suicide attempt. However, I quickly sought help, stabilized, and enrolled in a 15-session Cognitive Processing Therapy (CPT) program in January 2025, which proved invaluable for addressing my PTSD.
 
 Throughout February 2025, I faced critical health challenges, including E. coli and parasite infections, which were eventually linked to Mast Cell Activation Syndrome (MCAS). With the help of AI, I self-diagnosed and began treatment, which has been effective.
+
+#### A Special Place In Hell For Those Who Expect Perfection
+
+> `Perfection is for assholes!` -- Taylor Mac
+
+I can add a few sentences on the almost univerally unhelpful impacts an assumption of perfection or striving for perfection induce.
 
 ### Quantitative Metrics
 #### [!Habits iPhone App](https://www.notboring.software/product/habits)
