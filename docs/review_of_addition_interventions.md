@@ -1,4 +1,4 @@
-# Addiction Recovery: A Personal Journey Perspective
+# Addiction Recovery: A Survey Of Perspective
 
 ---
 
