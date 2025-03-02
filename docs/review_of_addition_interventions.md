@@ -1,8 +1,8 @@
-# Addiction Recovery: A Personal Journey Beyond the 12-Step Paradigm
+# Addiction Recovery: A Personal Journey Perspective
 
 ---
 
-> # THIS IS A DRAFT WIP PUBLICATION DESTINED FOR F1000 RESEARCH
+> # THIS IS A DRAFT <<
 
 ---
 
